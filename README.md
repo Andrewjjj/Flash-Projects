@@ -5,12 +5,17 @@ Collection of Flash Projects I've done over the years (mainly when I was very yo
 
 -------
 
+* [Dodge the Square](#dodge-the-square)
 * [Epic RPG Game](#epic-rpg-game)
 * [Slider](#slider)
 * [MouseDrag Simulator](#mousedrag-simulator)
     * [MouseDrag Simulator](#mousedrag-simulator)
     * [Starcraft MouseDrag with Units](#starcraft-mousedrag-with-units)
 * [Building Simulator](#building-simulator)
+---
+# Dodge the Square
+
+TODO: To be updated soon
 
 ---
 # Epic RPG Game
@@ -46,5 +51,9 @@ Functionalities:
 ---
 # Mousedrag Simulator
 
+To be updated soon
+
 ---
-(#building-simulator)
+# Building Simiulator
+
+To be updated soon
